@@ -6,7 +6,7 @@ This project analyzes retail sales data to evaluate sales performance, product p
 
 ## **Project Details**
 
-- **Tools:** PostgreSQL, DBeaver, SQL, Google Data Studio
+- **Tools:** PostgreSQL, DBeaver, SQL, Google Looker Studio
 - **Database:** `retail_sales`
 - **Schema:** `public`
 - **Table:** `orders`
@@ -106,7 +106,7 @@ Analyzed monthly and annual sales performance to identify revenue and profit tre
 
 ### **7. Retail Sales Dashboard**
 
-Developed an interactive dashboard using Google Data Studio to visualize retail sales performance, product profitability, customer contributions, and sales trends.
+Developed an interactive dashboard using Google Looker Studio to visualize retail sales performance, product profitability, customer contributions, and sales trends.
 
 **Key Analysis:**
 
@@ -121,7 +121,7 @@ Developed an interactive dashboard using Google Data Studio to visualize retail 
 
 **Interactive Dashboard:**
 
-[**View Live Dashboard – Google Data Studio**](https://datastudio.google.com/reporting/b70f4a3f-0fab-4cce-9379-8d78dc4dbebb)
+[**View Live Dashboard – Google Looker Studio**](https://datastudio.google.com/reporting/b70f4a3f-0fab-4cce-9379-8d78dc4dbebb)
 
 ## **Key Business Recommendations**
 

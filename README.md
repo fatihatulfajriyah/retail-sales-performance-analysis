@@ -42,7 +42,7 @@ Performed data quality checks to assess dataset completeness, consistency, and r
 
 - No missing values or unusual numeric values were found in the selected key columns.
 - Eight order-product combinations were flagged for further inspection.
-- One potential exact duplicate record was identified.
+- One exact duplicate record was identified.
 
 ### **3. Sales Performance Analysis**
 
@@ -71,7 +71,7 @@ Analyzed product sales volume and profitability to identify top-performing and l
 **Key Findings:**
 
 - Logitech P710e Mobile Speakerphone ranked first in total units sold.
-- Canon imageCLASS 2200 Advanced Copier generated the highest total profit.
+- Canon imageCLASS 2200 Advanced Copier generated the highest total sales and profit.
 - Cubify CubeX 3D Printer Double Head Print recorded the largest cumulative loss.
 
 ### **5. Customer Analysis**
@@ -111,14 +111,12 @@ Developed an interactive dashboard using Google Looker Studio to visualize retai
 **Key Analysis:**
 
 - Sales Performance by City
-- Sales and Profit by Category
-- Top-Selling Products
-- Most Profitable Products
-- Loss-Making Products
+- Sales by Category and Region
+- Top 5 Products by Sales
+- Profit Performance by Subcategory
 - Customer Spending Analysis
 - Customer Segment Performance
 - Monthly and Annual Sales Trends
-
 **Interactive Dashboard:**
 
 [**View Live Dashboard – Google Looker Studio**](https://datastudio.google.com/reporting/b70f4a3f-0fab-4cce-9379-8d78dc4dbebb)

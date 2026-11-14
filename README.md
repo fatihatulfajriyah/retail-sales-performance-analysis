@@ -146,7 +146,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize retai
 
 ## **Project Files**
 
-- `retail_sales_dataset.xlsx` – Dataset used for retail sales analysis.
+- `retail_sales_dataset.csv` – Dataset used for retail sales analysis.
 - `retail_sales_analysis.sql` – SQL queries used for data exploration, validation, and business analysis.
 - `retail_sales_dashboard.jpg` – Dashboard preview.
 - `README.md` – Project documentation.
